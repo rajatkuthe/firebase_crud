@@ -2,6 +2,7 @@ import * as firebase from "firebase";
 
 const firebaseConfig = {
   apiKey: "AIzaSyAxstTagOviXfN1vOAVDseyp6OuwPmuZN4",
+  databaseURL: "https://fir-crud-bd0bb-default-rtdb.firebaseio.com",
   authDomain: "fir-crud-bd0bb.firebaseapp.com",
   projectId: "fir-crud-bd0bb",
   storageBucket: "fir-crud-bd0bb.appspot.com",
